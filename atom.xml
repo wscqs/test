@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-26T16:18:00.000Z</updated>
+  <updated>2016-04-27T15:53:11.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>创建我的hexo博客</title>
+    <link href="http://yoursite.com/2016/04/27/%E5%88%9B%E5%BB%BA%E6%88%91%E7%9A%84hexo%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2016/04/27/创建我的hexo博客/</id>
+    <published>2016-04-27T15:15:52.000Z</published>
+    <updated>2016-04-27T15:53:11.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;看到技术人员都有自己的技术博客，自己很是崇拜，所以自己动手搭建了属于自己的博客。博客搭建过程，相对很简单，希望大家都能自己搭建出属于自己的技术博客。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h2&gt;&lt;p&gt;大家根据一下参考，相信能搭建出跟我一样漂亮的技术博客。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ezlippi.com//blog/2016/02/jekyll-to-hexo.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Jekyll迁移到Hexo搭建个人博客 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://theme-next.iissnan.com/third-party-services.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;第三方服务集成&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://notes.wanghao.work/2015-10-21-为NexT主题添加文章阅读量统计功能.html#配置LeanCloud&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;为NexT主题添加文章阅读量统计功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://libs.useso.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;谷歌字体替换为360国内CDN,解决打开速度慢&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;百度统计实现了，但是无法在页面显示。  后续解决&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;api&quot;&gt;&lt;a href=&quot;#api&quot; class=&quot;headerlink&quot; title=&quot;api&quot;&gt;&lt;/a&gt;api&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://leancloud.cn/data.html?appid=vU7K2EyOetVVL8PpXdCEOr94-gzGzoHsz#/Counter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;leancloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sitecenter.baidu.com/sc-web/20403802/home/site/getjs?siteId=8818837&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度统计&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wscqs.duoshuo.com/admin/settings/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;多说&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://swiftype.com/engines/hexo/overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;swiftype&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;看到技术人员都有自己的技术博客，自己很是崇拜，所以自己动手搭建了属于自己的博客。博客搭建过程，相对很简单，希望大家都能自己搭建出属于自己的技术博客。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="成长" scheme="http://yoursite.com/categories/%E6%88%90%E9%95%BF/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>nihao</title>
@@ -52,22 +92,6 @@
     <summary type="html">
     
       &lt;figure class=&quot;highlight objectivec&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span 
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>postName</title>
-    <link href="http://yoursite.com/2016/04/26/postName/"/>
-    <id>http://yoursite.com/2016/04/26/postName/</id>
-    <published>2016-04-26T14:35:41.000Z</published>
-    <updated>2016-04-26T14:35:41.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
     
     </summary>
     
